@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/DamyKS/streamlit_pdf_summarizer.git](https://github.com/DamyKS/streamlit_pdf_summarizer.git) # Adjust if your repo name is different
+    git clone https://github.com/DamyKS/streamlit_pdf_summarizer.git
     cd streamlit_pdf_summarizer
     ```
 
