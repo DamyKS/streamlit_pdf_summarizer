@@ -50,7 +50,7 @@ def get_gemini_summary(text_content: str, max_words: int) -> str:
         return f"An error occurred during summarization: {e}"
 
 
-# stract and cache pdf  content
+# extract and cache pdf  content
 @st.cache_data(show_spinner=False)
 def extract_text_from_pdf(file_bytes: bytes) -> str:
     reader = PdfReader(io.BytesIO(file_bytes))
