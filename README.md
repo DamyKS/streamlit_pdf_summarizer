@@ -69,8 +69,6 @@ Ensure you have the following installed on your system:
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE.md). (You can create an empty `LICENSE.md` file in your repository if you don't have one).
-
----
+This project is open-source and available under the MIT License
 
 Built by **Damian**
