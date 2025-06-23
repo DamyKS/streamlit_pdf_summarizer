@@ -9,6 +9,8 @@ A Streamlit application that allows users to upload a PDF document and automatic
 * **Adjustable Summary Length:** Choose between short, medium, and long summaries to fit your needs.
 * **Progress Indicators:** Clear visual feedback during text extraction and summarization.
 * **User-Friendly Interface:** Simple and intuitive design for easy navigation and use.
+  
+Demo Link : https://streamlit-pdf-summarizer.onrender.com
 
 ## 🚀 Getting Started
 
